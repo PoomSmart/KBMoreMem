@@ -1,0 +1,9 @@
+Package: com.ps.kbmoremem
+Name: KBMoreMem
+Depends: mobilesubstrate, firmware (>= 8.0), cc.tweak.libobjcipc, jetslammed
+Version: 1.0
+Architecture: iphoneos-arm
+Description: More memory for 3rd-party keyboards.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
